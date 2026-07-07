@@ -19,7 +19,7 @@ All files are optimized: pixelated edges are smoothed, internal holes are remove
 | Historical Map Name | De-Jure Boundaries Description | Direct File Link |
 | :--- | :--- | :--- |
 | **Far Eastern Republic (1922)** | Autumn 1922 borders based on the 1921 Constitution. Aligned with the Selenga River (Baikal), the Stanovoy Range (Yakutia border), and splits Sakhalin exactly at the 50th parallel. | 💾 [Download File](ССЫЛКА_НА_RAW_ФАЙЛ_ДВР) |
-| **[Next Map Name]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download File](Leave it as is for now) |
+| **[Next Map Name]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file]([https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/far-eastern-republic-1920-1922.geojson) |
 
 ---
 
@@ -45,7 +45,7 @@ All files are optimized: pixelated edges are smoothed, internal holes are remove
 
 | Название исторической карты | Описание де-юре границ | Прямая ссылка на файл |
 | :--- | :--- | :--- |
-| **Дальневосточная республика (ДВР, 1922)** | Границы осени 1922 г. по Конституции 1921 г. Выровнена по р. Селенге (Байкал), Становому хребту (граница с Якутией) и 50-й параллели Сахалина. | 💾 [Скачать файл](ССЫЛКА_НА_RAW_ФАЙЛ_ДВР) |
+| **Дальневосточная республика (ДВР, 1922)** | Границы осени 1922 г. по Конституции 1921 г. Выровнена по р. Селенге (Байкал), Становому хребту (граница с Якутией) и 50-й параллели Сахалина. | 💾 [Скачать файл]([https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/far-eastern-republic-1920-1922.geojson) |
 
 ---
 
