@@ -45,7 +45,7 @@ All files are optimized: pixelated edges are smoothed, internal holes are remove
 
 | Название исторической карты | Описание де-юре границ | Прямая ссылка на файл |
 | :--- | :--- | :--- |
-| **Дальневосточная республика (ДВР, 1922)** | Границы осени 1922 г. по Конституции 1921 г. Выровнена по р. Селенге (Байкал), Становому хребту (граница с Якутией) и 50-й параллели Сахалина. | 💾 [Скачать файл]([https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/far-eastern-republic-1920-1922.geojson) |
+| **Дальневосточная республика (ДВР, 1922)** | Границы осени 1922 г. по Конституции 1921 г. Выровнена по р. Селенге (Байкал), Становому хребту (граница с Якутией) и 50-й параллели Сахалина. | 💾 [Скачать файл](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/far-eastern-republic-1920-1922.geojson) |
 
 ---
 
