@@ -19,7 +19,13 @@ All files are optimized: pixelated edges are smoothed, internal holes are remove
 | Historical Map Name | De-Jure Boundaries Description | Direct File Link |
 | :--- | :--- | :--- |
 | **Far Eastern Republic (1922)** | Autumn 1922 borders based on the 1921 Constitution. Aligned with the Selenga River (Baikal), the Stanovoy Range (Yakutia border), and splits Sakhalin exactly at the 50th parallel. | 💾 [Download File](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/far-eastern-republic-1920-1922.geojson) |
-| **[Next Map Name]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file]([https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/far-eastern-republic-1920-1922.geojson) |
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
+| **[Lake Mega-Chad]** | [Brief description of the borders and cut lines for future updates] | 💾 [Download file](https://raw.githubusercontent.com/SIMONKONDR/historical-maps-geojson/refs/heads/main/maps/Lake%20Mega-Chad.geojson)|
 
 ---
 
